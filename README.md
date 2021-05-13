@@ -1,2 +1,2 @@
 # chat-app
-simple chat app in python
+Simple chat app in python
